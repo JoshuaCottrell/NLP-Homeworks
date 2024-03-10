@@ -1,0 +1,36 @@
+Part of Speech Predictions:
+
+I think for UD tags, my corpus will be 25% nouns, 15% pronouns, 15% coordinating conjunctions, 10% verbs, 10% adjectives, and the rest will be from
+less common categories.
+
+For Penn Treebank tags, my corpus will be 25% coordinating conjunctions, 15% adjectives, 10% singular or mass nouns, 8% personal pronouns, 7% verbs past tense, 3% verbs base form, 2% interjections, 2% possessive pronouns,
+and the rest will be from less common categories
+
+
+Named Entity Recognition Predictions:
+
+I honestly have no idea what my most common NER entires will be, since the topics in my corpus are all over the place. However, I can
+make a couple guesses.
+
+I think the most common location entity will be Toronto, since that is where Northernlion lives.
+I think the most common person entity will be Kate, his wife, since, well, she is his wife.
+I think the most common orginization entity will be Reddit, since that is what he is recording the video about.
+
+
+Reflections:
+
+I think I actually got a lot of my predictions right. Or, at least, more right than I expected to. I guess I watch too much Northernlion.
+
+In both UD and Treebank predictions, I under appreciated the less common categories. Nothing got even close to 25% of all POS tags, with the
+closest being pronouns in UD at ~19%. I did expect pronouns to be high, since the videos are reacting to things people he doesn't know have
+done, but I had no idea they would be the most common. I also super over valued coordinating conjunctions, with them being ~3% in UD and
+not even breaking the top 10 in Treebank. I guess I expected a lot of them to be used as filler words when Northernlion needs to fill dead
+air, but that doesn't seem to be the case.
+
+For NER, I was actually more wrong than I thought I'd be. I had what I thought were some pretty safe guesses, but apparently not.
+Starting off strong, I did guess correctly that Kate would be the most common name, and significantly at that. However I was incredibly
+surprised to see that neither Toronto nor Reddit were in their respective top 10s. I guess it makes sense in hindsight, since he isn't
+talking about himself that often in this series, but it was still very surprising.
+
+Overall the assignment was pretty interesting, and it was fun to think deeper about the content that I consume.
+

@@ -1,0 +1,27 @@
+Interesting sentences from part 4:
+Corpus 1 - Isaac: "highest quality" [0.69, 0.03, 0.29] - Highest quality corpus it seems, with react court in second place
+Corpus 2 - SAP: "this is the most interesting corpus!" [0.02, 0.97, 0.01] - Scientifically proven most interesting corpus!
+Corpus 3 - React Court: "these people are so annoying" [0.15, 0.14, 0.71] - Deals with a lot of annoying people...
+
+Data from part 5:
+Accuracies: [0.69 0.7  0.7  0.69 0.7  0.69 0.69 0.69 0.69 0.7  0.69 0.7  0.69 0.68 0.7  0.69 0.69 0.7  0.69 0.69]
+Mean: 0.693708336353302
+Standard Deviation: 0.004712240352982307
+
+Data from part 6: 
+Accuracies: [0.53 0.54 0.54 0.52 0.54 0.54 0.53 0.53 0.54 0.53 0.53 0.54 0.53 0.54 0.53 0.54 0.53 0.52 0.53 0.53]
+Mean: 0.5332666635513306
+Standard Deviation: 0.005446560870447982
+
+Paragraphs:
+
+	While working on homework 4 I learned that despite the size of my corpora and the technically different subject matter of each corpus, the source of all my corpora, NL, does
+not structure his thoughts according to each video. By this I mean that while a video about the video game "The Binding of Isaac" and the video game "Super Auto Pets" are labelled
+to be about completely different games, the majority of the transcript will be random anecdotes that NL is going over while the game goes on in the background. They definitely have
+differences, especially when NL is actually talking about the games, but I would say it is somewhere like 80/20. This doesn't make any NLP task useless, it just makes it harder to
+find sigificant differences. It might even make NLP tasks more important, if we ever get to designing a program that finds those minute differences between each video for me.
+
+	I also think that this difference came into effect during the word embedding portion of the homework. Using word embeddings gave significantly worse accuracies, which I think is
+most likely due to what I mentioned in the above paragraph. Besides all of that, the assignment enforced my current knowledge of neural nets from class and it was very interesting and cool
+to see them work and play around with them on my corpora. A lot more things break in practice than in theory though...
+
